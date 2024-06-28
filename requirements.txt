@@ -1,0 +1,11 @@
+opencv-python
+pillow
+torch
+torchvision
+torchaudio
+flash_attn
+opencv-python
+torch
+transformers
+matplotlib
+requests
